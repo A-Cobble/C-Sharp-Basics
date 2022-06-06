@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\07. Arrays\bin\Debug\_07.Arrays.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\07. Arrays\bin\Debug\_07.Arrays.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\07. Arrays\bin\Debug\_07.Arrays.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\07. Arrays\obj\Debug\07. Arrays.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\07. Arrays\obj\Debug\07. Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\07. Arrays\obj\Debug\07. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\07. Arrays\obj\Debug\_07.Arrays.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\07. Arrays\obj\Debug\_07.Arrays.pdb

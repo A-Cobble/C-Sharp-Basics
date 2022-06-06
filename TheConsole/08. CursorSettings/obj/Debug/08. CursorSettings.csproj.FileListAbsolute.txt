@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\08. CursorSettings\bin\Debug\_08.CursorSettings.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\08. CursorSettings\bin\Debug\_08.CursorSettings.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\08. CursorSettings\bin\Debug\_08.CursorSettings.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\08. CursorSettings\obj\Debug\08. CursorSettings.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\08. CursorSettings\obj\Debug\08. CursorSettings.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\08. CursorSettings\obj\Debug\08. CursorSettings.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\08. CursorSettings\obj\Debug\_08.CursorSettings.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\08. CursorSettings\obj\Debug\_08.CursorSettings.pdb

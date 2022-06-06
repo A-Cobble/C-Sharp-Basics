@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\06. String\bin\Debug\_06.String.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\06. String\bin\Debug\_06.String.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\06. String\bin\Debug\_06.String.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\06. String\obj\Debug\06. String.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\06. String\obj\Debug\06. String.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\06. String\obj\Debug\06. String.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\06. String\obj\Debug\_06.String.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\06. String\obj\Debug\_06.String.pdb

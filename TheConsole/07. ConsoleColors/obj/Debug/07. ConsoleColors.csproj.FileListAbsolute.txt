@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\07. ConsoleColors\bin\Debug\_07.ConsoleColors.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\07. ConsoleColors\bin\Debug\_07.ConsoleColors.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\07. ConsoleColors\bin\Debug\_07.ConsoleColors.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\07. ConsoleColors\obj\Debug\07. ConsoleColors.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\07. ConsoleColors\obj\Debug\07. ConsoleColors.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\07. ConsoleColors\obj\Debug\07. ConsoleColors.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\07. ConsoleColors\obj\Debug\_07.ConsoleColors.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\07. ConsoleColors\obj\Debug\_07.ConsoleColors.pdb

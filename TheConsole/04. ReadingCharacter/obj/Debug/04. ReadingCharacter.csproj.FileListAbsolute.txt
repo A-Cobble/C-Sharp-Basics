@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\04. ReadingCharacter\bin\Debug\_04.ReadingCharacter.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\04. ReadingCharacter\bin\Debug\_04.ReadingCharacter.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\04. ReadingCharacter\bin\Debug\_04.ReadingCharacter.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\04. ReadingCharacter\obj\Debug\04. ReadingCharacter.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\04. ReadingCharacter\obj\Debug\04. ReadingCharacter.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\04. ReadingCharacter\obj\Debug\04. ReadingCharacter.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\04. ReadingCharacter\obj\Debug\_04.ReadingCharacter.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\04. ReadingCharacter\obj\Debug\_04.ReadingCharacter.pdb

@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\04. Boolean\bin\Debug\_04.Boolean.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\04. Boolean\bin\Debug\_04.Boolean.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\04. Boolean\bin\Debug\_04.Boolean.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\04. Boolean\obj\Debug\04. Boolean.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\04. Boolean\obj\Debug\04. Boolean.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\04. Boolean\obj\Debug\04. Boolean.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\04. Boolean\obj\Debug\_04.Boolean.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\04. Boolean\obj\Debug\_04.Boolean.pdb

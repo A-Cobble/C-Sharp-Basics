@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\11. Converting\bin\Debug\_11.Converting.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\11. Converting\bin\Debug\_11.Converting.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\11. Converting\bin\Debug\_11.Converting.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\11. Converting\obj\Debug\11. Converting.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\11. Converting\obj\Debug\11. Converting.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\11. Converting\obj\Debug\11. Converting.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\11. Converting\obj\Debug\_11.Converting.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\11. Converting\obj\Debug\_11.Converting.pdb

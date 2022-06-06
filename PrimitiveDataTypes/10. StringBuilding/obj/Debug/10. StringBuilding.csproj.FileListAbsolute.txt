@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\10. StringBuilding\bin\Debug\_10.StringBuilding.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\10. StringBuilding\bin\Debug\_10.StringBuilding.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\10. StringBuilding\bin\Debug\_10.StringBuilding.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\10. StringBuilding\obj\Debug\10. StringBuilding.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\10. StringBuilding\obj\Debug\10. StringBuilding.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\10. StringBuilding\obj\Debug\10. StringBuilding.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\10. StringBuilding\obj\Debug\_10.StringBuilding.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\10. StringBuilding\obj\Debug\_10.StringBuilding.pdb

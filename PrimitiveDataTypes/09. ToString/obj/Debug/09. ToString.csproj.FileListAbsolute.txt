@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\09. ToString\bin\Debug\_09.ToString.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\09. ToString\bin\Debug\_09.ToString.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\09. ToString\bin\Debug\_09.ToString.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\09. ToString\obj\Debug\09. ToString.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\09. ToString\obj\Debug\09. ToString.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\09. ToString\obj\Debug\09. ToString.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\09. ToString\obj\Debug\_09.ToString.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\09. ToString\obj\Debug\_09.ToString.pdb

@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\05. ReadLine\bin\Debug\_05.ReadLine.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\05. ReadLine\bin\Debug\_05.ReadLine.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\05. ReadLine\bin\Debug\_05.ReadLine.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\05. ReadLine\obj\Debug\05. ReadLine.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\05. ReadLine\obj\Debug\05. ReadLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\05. ReadLine\obj\Debug\05. ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\05. ReadLine\obj\Debug\_05.ReadLine.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\05. ReadLine\obj\Debug\_05.ReadLine.pdb

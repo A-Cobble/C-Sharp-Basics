@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\05. Character\bin\Debug\_05.Character.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\05. Character\bin\Debug\_05.Character.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\05. Character\bin\Debug\_05.Character.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\05. Character\obj\Debug\05. Character.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\05. Character\obj\Debug\05. Character.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\05. Character\obj\Debug\05. Character.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\05. Character\obj\Debug\_05.Character.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\05. Character\obj\Debug\_05.Character.pdb

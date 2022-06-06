@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\03. ConsoleFormatting\bin\Debug\_03.ConsoleFormatting.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\03. ConsoleFormatting\bin\Debug\_03.ConsoleFormatting.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\03. ConsoleFormatting\bin\Debug\_03.ConsoleFormatting.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\03. ConsoleFormatting\obj\Debug\03. ConsoleFormatting.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\03. ConsoleFormatting\obj\Debug\03. ConsoleFormatting.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\03. ConsoleFormatting\obj\Debug\03. ConsoleFormatting.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\03. ConsoleFormatting\obj\Debug\_03.ConsoleFormatting.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\03. ConsoleFormatting\obj\Debug\_03.ConsoleFormatting.pdb

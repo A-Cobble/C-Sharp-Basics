@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\IntegerDataTypes\obj\Debug\02. IntegerDataTypes.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\IntegerDataTypes\obj\Debug\02. IntegerDataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\IntegerDataTypes\obj\Debug\02. IntegerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\IntegerDataTypes\obj\Debug\IntegerDataTypes.pdb

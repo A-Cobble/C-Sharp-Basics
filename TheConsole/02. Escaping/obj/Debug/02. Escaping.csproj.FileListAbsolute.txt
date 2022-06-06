@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\02. Escaping\bin\Debug\_02.Escaping.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\02. Escaping\bin\Debug\_02.Escaping.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\02. Escaping\bin\Debug\_02.Escaping.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\02. Escaping\obj\Debug\02. Escaping.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\02. Escaping\obj\Debug\02. Escaping.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\02. Escaping\obj\Debug\02. Escaping.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\02. Escaping\obj\Debug\_02.Escaping.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\02. Escaping\obj\Debug\_02.Escaping.pdb

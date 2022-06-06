@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\08. StringTricks\bin\Debug\_08.StringTricks.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\08. StringTricks\bin\Debug\_08.StringTricks.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\08. StringTricks\bin\Debug\_08.StringTricks.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\08. StringTricks\obj\Debug\08. StringTricks.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\08. StringTricks\obj\Debug\08. StringTricks.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\08. StringTricks\obj\Debug\08. StringTricks.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\08. StringTricks\obj\Debug\_08.StringTricks.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\08. StringTricks\obj\Debug\_08.StringTricks.pdb

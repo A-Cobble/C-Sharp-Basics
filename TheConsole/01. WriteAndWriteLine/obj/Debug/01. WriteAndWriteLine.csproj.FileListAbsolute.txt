@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\01. WriteAndWriteLine\bin\Debug\_01.WriteAndWriteLine.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\01. WriteAndWriteLine\bin\Debug\_01.WriteAndWriteLine.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\01. WriteAndWriteLine\bin\Debug\_01.WriteAndWriteLine.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\01. WriteAndWriteLine\obj\Debug\01. WriteAndWriteLine.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\01. WriteAndWriteLine\obj\Debug\01. WriteAndWriteLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\01. WriteAndWriteLine\obj\Debug\01. WriteAndWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\01. WriteAndWriteLine\obj\Debug\_01.WriteAndWriteLine.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\01. WriteAndWriteLine\obj\Debug\_01.WriteAndWriteLine.pdb

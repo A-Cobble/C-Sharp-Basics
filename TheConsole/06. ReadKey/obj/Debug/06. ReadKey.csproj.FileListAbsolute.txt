@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\06. ReadKey\bin\Debug\_06.ReadKey.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\06. ReadKey\bin\Debug\_06.ReadKey.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\06. ReadKey\bin\Debug\_06.ReadKey.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\06. ReadKey\obj\Debug\06. ReadKey.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\06. ReadKey\obj\Debug\06. ReadKey.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\06. ReadKey\obj\Debug\06. ReadKey.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\06. ReadKey\obj\Debug\_06.ReadKey.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\06. ReadKey\obj\Debug\_06.ReadKey.pdb

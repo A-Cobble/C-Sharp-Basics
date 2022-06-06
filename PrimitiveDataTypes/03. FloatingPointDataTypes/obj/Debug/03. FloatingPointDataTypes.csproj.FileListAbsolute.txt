@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\03. FloatingPointDataTypes\bin\Debug\_03.FloatingPointDataTypes.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\03. FloatingPointDataTypes\bin\Debug\_03.FloatingPointDataTypes.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\03. FloatingPointDataTypes\bin\Debug\_03.FloatingPointDataTypes.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\03. FloatingPointDataTypes\obj\Debug\03. FloatingPointDataTypes.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\03. FloatingPointDataTypes\obj\Debug\03. FloatingPointDataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\03. FloatingPointDataTypes\obj\Debug\03. FloatingPointDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\03. FloatingPointDataTypes\obj\Debug\_03.FloatingPointDataTypes.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\PrimitiveDataTypes\03. FloatingPointDataTypes\obj\Debug\_03.FloatingPointDataTypes.pdb

@@ -1,0 +1,8 @@
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\09.  ConsoleSize\bin\Debug\_09.ConsoleSize.exe.config
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\09.  ConsoleSize\bin\Debug\_09.ConsoleSize.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\09.  ConsoleSize\bin\Debug\_09.ConsoleSize.pdb
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\09.  ConsoleSize\obj\Debug\09.  ConsoleSize.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\09.  ConsoleSize\obj\Debug\09.  ConsoleSize.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\09.  ConsoleSize\obj\Debug\09.  ConsoleSize.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\09.  ConsoleSize\obj\Debug\_09.ConsoleSize.exe
+C:\Users\alexc\Desktop\C# files\C# coding projects\TheConsole\09.  ConsoleSize\obj\Debug\_09.ConsoleSize.pdb
